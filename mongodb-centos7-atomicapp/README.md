@@ -6,5 +6,5 @@ It's a single container application based on the ``kolab/mongodb`` image.
 
 Run the image. It will automatically use kubernetes as the orchestration provider.
 
-    $ [sudo] atomic run kolab/mongodb-centos7-atomicapp
+    $ [sudo] atomic run projectatomic/mongodb-centos7-atomicapp
 
